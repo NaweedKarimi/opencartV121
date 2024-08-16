@@ -1,0 +1,31 @@
+2024-08-15 17:20:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Microsoft\eclipse-workspace\opencartV121\testng.xml
+
+2024-08-15 17:20:14 INFO  TC_003_LoginDDT:27 - ***Start TC_003_LoginDDT***
+2024-08-15 17:20:17 INFO  TC_003_LoginDDT:70 - ***Finished TC_003_LoginDDT***
+2024-08-15 17:20:17 INFO  TC_003_LoginDDT:27 - ***Start TC_003_LoginDDT***
+2024-08-15 17:20:19 INFO  TC_003_LoginDDT:27 - ***Start TC_003_LoginDDT***
+2024-08-15 17:20:22 INFO  TC_003_LoginDDT:27 - ***Start TC_003_LoginDDT***
+2024-08-15 17:20:44 INFO  TC_003_LoginDDT:70 - ***Finished TC_003_LoginDDT***
+2024-08-15 17:20:44 INFO  TC_003_LoginDDT:27 - ***Start TC_003_LoginDDT***
+2024-08-15 17:20:48 INFO  TC_003_LoginDDT:70 - ***Finished TC_003_LoginDDT***
+2024-08-15 17:21:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Microsoft\eclipse-workspace\opencartV121\testng.xml
+
+2024-08-15 17:21:34 INFO  TC_003_LoginDDT:27 - ***Start TC_003_LoginDDT***
+2024-08-15 17:21:37 INFO  TC_003_LoginDDT:70 - ***Finished TC_003_LoginDDT***
+2024-08-15 17:21:37 INFO  TC_003_LoginDDT:27 - ***Start TC_003_LoginDDT***
+2024-08-15 17:21:39 INFO  TC_003_LoginDDT:27 - ***Start TC_003_LoginDDT***
+2024-08-15 17:21:41 INFO  TC_003_LoginDDT:27 - ***Start TC_003_LoginDDT***
+2024-08-15 17:22:02 INFO  TC_003_LoginDDT:70 - ***Finished TC_003_LoginDDT***
+2024-08-15 17:22:02 INFO  TC_003_LoginDDT:27 - ***Start TC_003_LoginDDT***
+2024-08-15 17:22:05 INFO  TC_003_LoginDDT:70 - ***Finished TC_003_LoginDDT***
+2024-08-15 17:22:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Microsoft\eclipse-workspace\opencartV121\testng.xml
+
+2024-08-15 17:22:48 INFO  TC_001_AccountRegistrationTest:21 - *** Starting TC001_AcountRegistrating TesT****
+2024-08-15 17:22:48 INFO  TC_001_AccountRegistrationTest:28 - Click on My Account Link!
+2024-08-15 17:22:48 INFO  TC_001_AccountRegistrationTest:31 - Click on Register Link!
+2024-08-15 17:22:58 INFO  TC_001_AccountRegistrationTest:35 - Providing Customer Information!
+2024-08-15 17:23:01 INFO  TC_001_AccountRegistrationTest:49 - Validating expected massage!
+2024-08-15 17:23:09 INFO  TC_002_LoginTest:15 - *****Starting TC002_LoginTest****
